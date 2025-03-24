@@ -26,4 +26,5 @@ link prototipo do figma: https://www.figma.com/design/gBpTOJOoXONLqaY5W23QwU/IFO
 Tecnologias utilizadas: FIGMA, E GOOGLE
 
 AUTOR: LUIZ GUSTAVO M RAMALHO
-LINK DE CONTATO
+
+LINK DE CONTATO: https://github.com/ghostrancing OU luiz.g.ramalho@aluno.senai.br
